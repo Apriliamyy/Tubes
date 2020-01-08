@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Cemilanku</string>
+    <string name="welcome">M.Fachrul</string>
+    <string name="title_placeholder">Title</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="cemilan_label">News</string>
+    <string name="cemilan_image">cemilan Image</string>
+
+    <string-array name="detail_cemilan">
+        <item>Keripik Singkong terbuat dari singkong berkualitas dengan rasa pedas</item>
+        <item>Keripik Tempe terbuat dari Tempe dengan rasa tempe yang khas</item>
+        <item>Keripik Apel khas mana gatau dah yang penting beli rasanya enak kok :)</item>
+        <item>Keripik bawang terbuat dari bawang dengan aroma yang wangi khas bawang</item>
+        <item>Keripik Bayam dengan kandungan gizi yang sangat bagus untuk badan</item>
+        <item>Keripik Ubi ungu di buat dari bahan berkualitas dengan rasa ubi yang manis</item>
+    </string-array>
+
+
+    <string-array name="cemilan_titles">
+        <item>Keripik Singkong</item>
+        <item>Keripik Tempe</item>
+        <item>Keripik Apel</item>
+        <item>Keripik Bawang</item>
+        <item>Keripik Bayam</item>
+        <item>Keripik Ubi</item>
+    </string-array>
+
+    <string-array name="cemilan_harga">
+        <item>15000</item>
+        <item>12500</item>
+        <item>18500</item>
+        <item>14000</item>
+        <item>17000</item>
+        <item>16500</item>\
+
+    </string-array>
+
+    <array name="cemilan_images">
+        <item>@drawable/kripik_singkong</item>
+        <item>@drawable/kripik_tempe</item>
+        <item>@drawable/keripik_apel</item>
+        <item>@drawable/keripik_bawang</item>
+        <item>@drawable/keripik_bayam</item>
+        <item>@drawable/keripik_ubi</item>
+
+    </array>
+
+</resources>
